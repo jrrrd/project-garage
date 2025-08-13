@@ -3,20 +3,25 @@
 ![Hudson Essex](../assets/images/hudson.jpg)
 
 ## Overview
+**Status:** Running & Driving (Most Complete)
+**Use Case:** Vintage cruising, period-correct hot rod events
+
+## Specifications
 - **Engine:** Ford Flathead V8
 - **Induction:** Dual Stromberg 97 carbs
-- **Status:** Running and driving — most complete car in the fleet.
-- **Goal:** Street rod with vintage race touches.
+- **Transmission:** 3-speed manual
+- **Body:** Steel body with custom chassis work
+- **Brakes:** Drum brakes all around
 
-## Current Work
-- Minor tuning
-- Brake refresh
-- Cosmetic detailing
+## Current Status
+The car is currently running and driving, representing the most complete build in the fleet.
 
-## Future Plans
-- Custom headers
-- Paint touch-ups
-- Period-correct race livery
+## Planned Upgrades
+- Front disc brake conversion kit
+- Cooling system improvements:
+  - Better cooling fan
+  - Upgraded radiator
+- Hidden modern ignition system for improved reliability
 
 ---
 [← Back to Projects](../index.md)
