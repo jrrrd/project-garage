@@ -3,7 +3,9 @@
 ![Hudson Essex](../assets/images/hudson.jpg)
 
 ## Overview
+
 **Status:** Running & Driving
+
 **Use Case:** Vintage cruising, period-correct hot rod events
 
 ## Specifications
