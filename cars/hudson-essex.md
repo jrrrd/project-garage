@@ -14,7 +14,7 @@
 - **Brakes:** Drum brakes all around
 
 ## Current Status
-The car is currently running and driving, representing the most complete build in the fleet.
+The car is currently running and driving
 
 ## Planned Upgrades
 - Front disc brake conversion kit
