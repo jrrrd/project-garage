@@ -29,4 +29,4 @@
 Project is in planning phase with focus on parts sourcing and build strategy for SCCA competition.
 
 ---
-[← Back to Projects](../index.md)
+[← Back to Projects](../README.md)
