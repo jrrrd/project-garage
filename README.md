@@ -1,4 +1,4 @@
-# Jared's Project Garage
+# jrrrd's project garage
 
 Welcome to my collection of builds — from vintage hot rods to turbo Volkswagens and track-ready hatchbacks.
 
