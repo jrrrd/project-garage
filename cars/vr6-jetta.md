@@ -3,7 +3,9 @@
 ![VR6 Jetta](../assets/images/vr6.jpg)
 
 ## Overview
+
 **Status:** Turbo Swap in Progress
+
 **Use Case:** Road Racing, HPDE, ChampCar A-Class
 
 ## Engine Specifications
