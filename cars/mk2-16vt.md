@@ -11,7 +11,7 @@
 ## Engine Build Specifications
 - **Base:** ABA block with 16v head
 - **Crankshaft:** TDI 95.5mm
-- **Connecting Rods:** Aftermarket
+- **Connecting Rods:** Integrated Engineering
 - **Turbo:** 60-1 (.48 A/R)
 - **Fuel System:** 630cc Bosch-style injectors
 - **Engine Management:** 
