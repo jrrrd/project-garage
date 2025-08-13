@@ -3,7 +3,9 @@
 ![Mk2 GTI](../assets/images/mk2.jpg)
 
 ## Overview
+
 **Status:** Planned Turbo Conversion (ABA/16v Hybrid)
+
 **Use Case:** Track / SCCA Production Class (H-Production or F-Production)
 
 ## Engine Build Specifications
