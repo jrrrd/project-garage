@@ -22,7 +22,7 @@ Its inherent balance makes it an excellent candidate for endurance racing where 
 |----------------------|-------------------------------------------------------------------------|
 | **Engine**           | 2.5L SOHC inline-4 (NA, 8-valve)                                        |
 | **Power Output**     | ~150 HP (stock baseline)                                                |
-| **Transmission**     | 5-speed rear transaxle (Audi-based)                                     |
+| **Transmission**     | 5-speed rear transaxle (944 LSD code: ?)                                     |
 | **Suspension**       | MacPherson strut (front) / semi-trailing arm (rear)                     |
 | **Brakes**           | Disc brakes front & rear (vented front, solid rear)                     |
 | **Wheels/Tires**     | TBD endurance spec, 15"–16" target, 200TW+                               |
