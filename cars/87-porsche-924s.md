@@ -113,5 +113,4 @@ Its inherent balance makes it an excellent candidate for endurance racing where 
 
 ---
 
-**Author:** Jared Harding  
-**License:** CC BY-SA 4.0
+
