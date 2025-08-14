@@ -9,6 +9,6 @@ Welcome to my collection of builds — from vintage hot rods to turbo Volkswagen
 - [1998 VW Jetta GLX](cars/98-vr6-jetta.md) – Endurance Racing (A-Class?) Build with Supercharged 24v BDF Swapped VR6
 - [1999 VW Jetta GLX](cars/99-vr6-jetta.md) - Street Registered Naturally Aspirated 12v VR6
 - [2018 VW GTI S](cars/mk7-5-gti.md) – IS38 turbo track build.
-- [1987 Porsche 924s](cars/87-porsche-924.md) - Endurance Racer with C class spec 
+- [1987 Porsche 924s](cars/87-porsche-924s.md) - Endurance Racer with C class spec 
 
 ---
