@@ -9,7 +9,8 @@
 **Use Case:** Road Racing, HPDE, ChampCar A-Class
 
 ## Engine Specifications
-- **Base Engine:** BDF 24v VR6
+- **Current Engine:** AAA OBD2 VR6 12v 2.8L
+- **Proposed Engine:** BDF Mk4 24v VR6 2.8L
 - **Turbo Setup:**
   - PAG Parts turbo manifold (T4 flange)
   - Tial 44mm wastegate
