@@ -6,11 +6,11 @@
 
 ## 📋 Overview
 
-The **1987 Porsche 924S** is a lightweight, front-engine, rear-transaxle sports car that shares the 944's drivetrain with the earlier 924 body.  
+The **1987 Porsche 924S** is a lightweight, front-engine, rear-transaxle sports car that shares the 944's drivetrain with a skinny 944 body.  
 Its inherent balance makes it an excellent candidate for endurance racing where **consistency beats outright power**.
 
 **Current Competition Classes:**
-- Lemons - Class C
+- 24 Hours of Lemons - Class C
 
 ---
 
