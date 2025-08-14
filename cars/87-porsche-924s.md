@@ -25,7 +25,7 @@ Its inherent balance makes it an excellent candidate for endurance racing where 
 | **Transmission**     | 5-speed rear transaxle (944 LSD code: ?)                                     |
 | **Suspension**       | MacPherson strut (front) / semi-trailing arm (rear)                     |
 | **Brakes**           | Disc brakes front & rear (vented front, solid rear)                     |
-| **Wheels/Tires**     | TBD endurance spec, 15"–16" target, 200TW+                               |
+| **Wheels/Tires**     | TBD endurance spec, 15" OEM Phone Dials, Falken RT660                               |
 | **Weight**           | ~2,650 lbs (goal: <2,400 race-ready)                                    |
 | **Fuel Cell**        | FIA/SFI certified endurance bladder (planned)                           |
 | **Safety Gear**      | Full roll cage, FIA seat, 6-pt harness, window net, fire suppression    |

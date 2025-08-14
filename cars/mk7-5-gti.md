@@ -35,7 +35,7 @@
 - Track-focused tire setup
 
 ## Current Status
-Vehicle is actively being developed with focus on track performance and safety upgrades.
+Vehicle is actively being daily driven currently with focus on planning future upgrades.
 
 ---
 [← Back to Projects](../README.md)
