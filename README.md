@@ -1,6 +1,6 @@
 # jrrrd's project garage
 
-Welcome to my collection of builds — from vintage hot rods to turbo Volkswagens and track-ready hatchbacks.
+Welcome to my collection of builds — and future build plans/upgrades.
 
 ## Current Projects
 - [1932 Hudson Essex Coupe](cars/hudson-essex.md) – Ford Flathead V8, dual Stromberg carbs, rusty.
