@@ -6,13 +6,11 @@
 
 ## 📋 Overview
 
-The **1987 Porsche 924S** is a lightweight, front-engine, rear-transaxle sports car that shares the 944's drivetrain with the earlier 924 body.  
+The **1987 Porsche 924S** is a lightweight, front-engine, rear-transaxle sports car that shares the 944's drivetrain with a skinny 944 body.  
 Its inherent balance makes it an excellent candidate for endurance racing where **consistency beats outright power**.
 
-**Planned Competition Classes:**
-- ChampCar Endurance Series
-- Lemons / Lucky Dog
-- NASA ST / TT (as a test mule)
+**Current Competition Classes:**
+- 24 Hours of Lemons - Class C
 
 ---
 
@@ -24,11 +22,11 @@ Its inherent balance makes it an excellent candidate for endurance racing where 
 | **Power Output**     | ~150 HP (stock baseline)                                                |
 | **Transmission**     | 5-speed rear transaxle (944 LSD code: ?)                                     |
 | **Suspension**       | MacPherson strut (front) / semi-trailing arm (rear)                     |
-| **Brakes**           | Disc brakes front & rear (vented front, solid rear)                     |
+| **Brakes**           | Disc brakes front & rear (solid front, solid rear with DTC60 Pads)                     |
 | **Wheels/Tires**     | TBD endurance spec, 15" OEM Phone Dials, Falken RT660                               |
 | **Weight**           | ~2,650 lbs (goal: <2,400 race-ready)                                    |
 | **Fuel Cell**        | FIA/SFI certified endurance bladder (planned)                           |
-| **Safety Gear**      | Full roll cage, FIA seat, 6-pt harness, window net, fire suppression    |
+| **Safety Gear**      | Full roll cage, Kirkey containment seat, 6-pt harness, fire suppression    |
 
 ---
 
