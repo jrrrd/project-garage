@@ -12,7 +12,7 @@
 - IS38 turbo upgrade
 - Aftermarket downpipe
 - Upgraded intercooler
-- Electronic boost controller
+- Neuspeed power module
 
 ### Suspension & Handling
 - MCS coilovers
